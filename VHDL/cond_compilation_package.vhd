@@ -37,5 +37,5 @@ package cond_compilation_package is
 	constant G_DATA_WORDS_NUM 	: integer := MODELSIM_M9K_MEM_WORDS_NUM;
 --------------------------------------------------------
 
-end cond_comilation_package;
+end cond_compilation_package;
 
