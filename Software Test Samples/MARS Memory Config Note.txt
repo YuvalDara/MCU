@@ -1,0 +1,1 @@
+When writing a new test in MARS, set Memory configuration to compact (Data at address 0)
